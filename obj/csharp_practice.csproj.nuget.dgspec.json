@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/swaroop/Downloads/csharp_practice/csharp_practice.csproj": {}
+  },
+  "projects": {
+    "/home/swaroop/Downloads/csharp_practice/csharp_practice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/swaroop/Downloads/csharp_practice/csharp_practice.csproj",
+        "projectName": "csharp_practice",
+        "projectPath": "/home/swaroop/Downloads/csharp_practice/csharp_practice.csproj",
+        "packagesPath": "/home/swaroop/.nuget/packages/",
+        "outputPath": "/home/swaroop/Downloads/csharp_practice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/swaroop/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "OpenQA.Selenium.Chrome.ChromeDriverExtensions": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "OpenQA.Selenium.Winium": {
+              "target": "Package",
+              "version": "[1.0.0.4, )"
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[85.0.0, )"
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[115.0.5790.17000, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
